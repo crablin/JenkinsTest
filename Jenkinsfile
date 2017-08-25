@@ -1,9 +1,9 @@
 pipeline {
   agent any
   stages {
-    stage('Echo') {
+    stage('Checkout') {
       steps {
-        echo 'Jenkins is testing'
+        sh 'checkout master'
       }
     }
   }
