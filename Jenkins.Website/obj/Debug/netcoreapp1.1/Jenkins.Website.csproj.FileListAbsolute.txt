@@ -1,0 +1,8 @@
+/Users/deacon/GitHub/JenkinsTest/JenkinsTests/Jenkins.Website/bin/Debug/netcoreapp1.1/Jenkins.Website.deps.json
+/Users/deacon/GitHub/JenkinsTest/JenkinsTests/Jenkins.Website/bin/Debug/netcoreapp1.1/Jenkins.Website.runtimeconfig.json
+/Users/deacon/GitHub/JenkinsTest/JenkinsTests/Jenkins.Website/bin/Debug/netcoreapp1.1/Jenkins.Website.runtimeconfig.dev.json
+/Users/deacon/GitHub/JenkinsTest/JenkinsTests/Jenkins.Website/bin/Debug/netcoreapp1.1/Jenkins.Website.dll
+/Users/deacon/GitHub/JenkinsTest/JenkinsTests/Jenkins.Website/bin/Debug/netcoreapp1.1/Jenkins.Website.pdb
+/Users/deacon/GitHub/JenkinsTest/JenkinsTests/Jenkins.Website/obj/Debug/netcoreapp1.1/Jenkins.Website.AssemblyInfo.cs
+/Users/deacon/GitHub/JenkinsTest/JenkinsTests/Jenkins.Website/obj/Debug/netcoreapp1.1/Jenkins.Website.dll
+/Users/deacon/GitHub/JenkinsTest/JenkinsTests/Jenkins.Website/obj/Debug/netcoreapp1.1/Jenkins.Website.pdb
